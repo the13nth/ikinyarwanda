@@ -118,6 +118,7 @@ export const VALIDGUESSES = [
 'cyane',
 'ikoti',
 'inoti',
+'ikofi',
 'menya',
 'iduka',
 'izuru',
