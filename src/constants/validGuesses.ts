@@ -57,7 +57,6 @@ export const VALIDGUESSES = [
 'igice',
 'kugwa',
 'izina',
-'pound',
 'ukuri',
 'byiza',
 'isaha',

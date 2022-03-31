@@ -2,6 +2,21 @@ import { CONFIG } from './config'
 
 export const WORDS = [
   'inoti',
+  'akaga',
+  'amata',
+  'idubu',
+  'ijuru',
+  'akazi',
+  'izina',
+  'imbwa',
+  'ibara',
+  'inkwi',
+  'akazi',
+  'urugo',
+  'nyina',
+  'abana',
+  'uruzi',
+  'igice',
 ]
 
 if (CONFIG.normalization) {
