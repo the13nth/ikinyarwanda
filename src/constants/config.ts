@@ -3,9 +3,9 @@ export const CONFIG = {
   language: 'Kinyarwanda', // This changes the display name for your language
   wordLength: 5, // This sets how long each word is based on how many characters (as defined in orthography.ts) are in each word
   author: 'rwbts13', // Put your name here so people know who made this Wordle!
-  authorWebsite: '', // Put a link to your website or social media here
+  authorWebsite: 'https://twitter.com/rwbts13', // Put a link to your website or social media here
   wordListSource: 'https://bit.ly/3iQXmvi', // Describe the source material for your words here
-  wordListSourceLink: '', // Put a link to the source material for your words here
+  wordListSourceLink: 'https://bit.ly/3iQXmvi', // Put a link to the source material for your words here
   //
   // THESE NEXT SETTINGS ARE FOR ADVANCED USERS
   //
