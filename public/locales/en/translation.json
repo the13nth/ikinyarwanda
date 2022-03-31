@@ -1,0 +1,99 @@
+{
+    "about": "Ibyerekeye umukino",
+    "gameName": "Kinyarwanda",
+    "enterKey": "Emeza",
+    "deleteKey": "Siba",
+    "notEnoughLetters": "Inyuguti ntizihagije",
+    "wordNotFound": "Iryo Jambo ntiririmo, turyongeremo?",
+    "solution": "Ijambo ryari {{solution}}",
+    "gameCopied": "Ibisubizo wabi postinga :) ",
+    "howToPlay": "Uko bakina",
+    "instructions": "Gerageza gufombora ijambo ukoresheje inshuro {{tries}} . Uko ufomboye, Ibara ry'umwanya wandikamo rirahinduka rikakwereka niba ibyo ufomboye byegereye igisubizo.",
+    "pickYourLanguage": "Hitamo ururimi",
+    "correctSpotInstructions": "Inyuguti K iri mw'ijambo kandi mu mwanya wayo.",
+    "wrongSpotInstructions": "Inyuguti I iri mw'ijambo ariko mu mwanya utari uwayo.",
+    "notInWordInstructions": "Inyuguti B ntiri mw'ijambo.",
+    "guessDistribution": "Guess Distribution",
+    "statistics": "Imibare (ni isomo rikomeye)",
+    "totalTries": "Inshuro wafomboye",
+    "successRate": "Uko watsinze",
+    "currentStreak": "Inshuro watsinze udaswata :)",
+    "bestStreak": "Aho watsinze kurusha ahandi",
+    "newWordCountdown": "Ijambo rishya riraza muri",
+    "share": "Sangiza",
+    "winMessages": [
+        "Ntago usanzwe!!!",
+        "Intsinzi!!!",
+        "Wabikoze!!!"
+    ],
+    "firstExampleWord": [{
+            "letter": "K",
+            "highlight": true
+        },
+        {
+            "letter": "W",
+            "highlight": false
+        },
+        {
+            "letter": "I",
+            "highlight": false
+        },
+        {
+            "letter": "G",
+            "highlight": false
+        },
+        {
+            "letter": "A",
+            "highlight": false
+        }
+    ],
+    "secondExampleWord": [{
+            "letter": "I",
+            "highlight": false
+        },
+        {
+            "letter": "P",
+            "highlight": false
+        },
+        {
+            "letter": "I",
+            "highlight": true
+        },
+        {
+            "letter": "N",
+            "highlight": false
+        },
+        {
+            "letter": "E",
+            "highlight": false
+        }
+    ],
+    "thirdExampleWord": [{
+            "letter": "I",
+            "highlight": false
+        },
+        {
+            "letter": "Z",
+            "highlight": false
+        },
+        {
+            "letter": "U",
+            "highlight": false
+        },
+        {
+            "letter": "B",
+            "highlight": true
+        },
+        {
+            "letter": "A",
+            "highlight": false
+        }
+    ],
+    "aboutAuthorSentence": "This is an open source clone of the game Wordle adapted to {{language}} by <3>{{author}}. ",
+    "aboutCodeSentence": "Check out <1>the original code</1> by <3>Hannah Park</3> or have a look at <5>Aidan Pine's fork</5> and customize it for another language! ",
+    "aboutDataSentence": "The words for this game were sourced from <1>{{wordListSource}}</1>. ",
+    "aboutOriginalSentence": "You can also play the original  <1>here</1>",
+    "languages": {
+        "en": "Kinyarwanda"
+    }
+}
