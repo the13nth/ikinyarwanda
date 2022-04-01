@@ -65,7 +65,9 @@ export const StatsModal = ({
             onClick={() => {
               shareStatus(guesses, isGameLost)
               handleShare()
+              console.log('btn clicked')
             }}
+          
           >
             {t('share')}
           </button>
